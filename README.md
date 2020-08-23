@@ -11,13 +11,13 @@ We had 4 days to think up a project idea, design it's front-end deisgn, interact
 
 [Link to presentation of the project ~ 8 minutes](https://www.awesomescreenshot.com/video/533899?key=41e8f89303d59831f1efe3a765959610)
 
-Wireframe
+### Wireframe:
 ![part 1](https://i.ibb.co/WK6ht0g/wirefram-pt1.png)
 ![part 2](https://i.ibb.co/kDBbNZ9/wirefram-pt2.png)
 ![part 3](https://i.ibb.co/YWk4ycd/wirefram-pt3.png)
 
 
-Description:
+### Description:
 Virtual Mall is an app that embodies the concept of a curated social shopping experience.
 Essentially, the idea is that most of us come accross local merchants and vendors, during travels or in local markets, that sell great products, but that don't have the exposure to be found online easily.
 Virtual Mall allows users to host a digital shopping experience, with curated vendors of their choice, in a visually pleasing manner.
