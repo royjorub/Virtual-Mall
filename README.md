@@ -3,8 +3,8 @@
 ## A virtual mall social e-commerce platform, made during coding bootcamp - in Python stack
 
 As part of the requirements to graduate [Coding Dojo](http://codingdojo.com) coding bootcamp, we had to pass a final exam for each stack taught, as well as do a project finale.
-This one, Virtual Mall, was made during Python stack month, and used Django framework. This group consisted of Ryan Marean, classmate and friend, and myself.
-We had 4 days to think up a project idea, design it's front-end deisgn, interactibility, back-end logic and database models structure.
+This one, Virtual Mall, was made during Python stack month, using Django framework. This group consisted of Ryan Marean, classmate and friend, and myself.
+We had 4 days to think up a project idea, design its front-end deisgn, interactibility, back-end logic and database models structure.
 
 *I present to you,*
 ***Virtual Mall Lane*** :sunglasses:
@@ -22,7 +22,7 @@ Virtual Mall is an app that embodies the concept of a curated social shopping ex
 Essentially, the idea is that most of us come accross local merchants and vendors, during travels or in local markets, that sell great products, but that don't have the exposure to be found online easily.
 Virtual Mall allows users to host a digital shopping experience, with curated vendors of their choice, in a visually pleasing manner.
 This allows the vendors to reach further in an age of online shopping. 
-It gives the users, which are the mall owners, the benefit of choosing which style of products and vendors they like to associate with, which is great for social media influencers. 
+It gives the users, which are the mall owners, the benefit of choosing which style of products and vendors they like to associate with, which is especially great for social media influencers. 
 They can change up their mall every once in a while and showcase different selection of local or global merchants.
 
 There are many more interesting features for the concept, but the best way to understand the idea and what it can be used for, is to check out the presetation. Link posted above :thumbsup:
@@ -41,7 +41,7 @@ Virtual Mall project was made using the Python language and Django framework. Th
 Python, being quick to code with, meant that we could use the "tracer" methhodology, easily running the Django server to see what worked and what didn't. 
 Being a 4 day project, with no consequences to data loss or entropy, there was no need for a heavier test driven approach. The idea was to create a smooth 4-6 page runthrough.
 With this in mind, it was a fantastic experience working with something as smooth, quick, and easy to change on the fly as python.
-Django too is an easy framework to work with. There was no need to deploy the project to the web, just to present from a local server during a Zoom meeting, so there really was no need for something more complex.
+Django too is an easy framework to work with. There was no need to deploy the project to the web at first, just to present from a local server during a Zoom meeting, so there really was no need for something more complex.
 It is structured, easy to work with. It handles static files comfortably, which was important for this perticular presentation, in which we created premade image backgrounds for the pages.
 Most importantly for us, Django can be used with VS code which has a live share feature. 
 It meant we could work on problems together, simultanously on the same file, when one of us hit a wall and neeeded another set of eyes.
